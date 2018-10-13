@@ -1,5 +1,7 @@
 # RisingStack bootcamp
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/risingstack-bootcamp.svg)](https://www.guardrails.io)
+
 <!-- TOC -->
 
 - [RisingStack bootcamp](#risingstack-bootcamp)
